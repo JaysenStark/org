@@ -3,3 +3,7 @@
 
 * svn
   svn merge -r HEAD:373578 path/to/file
+  
+* tmux
+  - C-s :   then swap-window -s 3 -t 1
+  - C-s .   重新制定窗口编号

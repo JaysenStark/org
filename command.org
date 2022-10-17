@@ -1,5 +1,7 @@
 * git
-  git checkout --theirs path/to/file
+  - git checkout --theirs path/to/file
+  - git bundle create repo.bundle HEAD master
+  - git clone repo.bundle repo
 
 * svn
   svn merge -r HEAD:373578 path/to/file

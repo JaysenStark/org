@@ -1,0 +1,11 @@
+* long term
+** week
+*** leetcode
+  每天20道题目，周末额外加30道
+** month
+** year
+
+* short term
+
+* disposable
+** 预约父母体检

@@ -1,0 +1,5 @@
+* git
+  git checkout --theirs path/to/file
+
+* svn
+  svn merge -r HEAD:373578 path/to/file

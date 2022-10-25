@@ -6,3 +6,18 @@
 ** 评价指标
   - 客观：胜率/金币
   - 玩家感受（出牌风格）
+  
+** 迭代
+  - 分级AI （基于玻尔兹曼采样）https://dandelioncloud.cn/article/details/1529227248918085634/
+  
+  
+** impl
+  - feature
+    state
+    action
+    
+  - model
+  
+  - train
+    sl (state, actions, best_action_id)
+    rl (xxx)

@@ -3,9 +3,13 @@
 *** leetcode
   每天20道题目，周末额外加30道
 ** month
+*** activation func
+  - sigmoid
+  - relu
+  
 ** year
 
 * short term
 
 * disposable
-** 预约父母体检
+
